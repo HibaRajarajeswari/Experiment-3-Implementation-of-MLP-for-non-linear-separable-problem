@@ -109,10 +109,8 @@ test=np.array([[0],[0]])
 predict(w1,w2,test)
 ```
  ## OUTPUT:
- ```
- ![3 1](https://user-images.githubusercontent.com/129970809/234885309-20ce30b5-a97d-4e90-b189-42ab471dcd24.jpg)
+ ![3 1](https://user-images.githubusercontent.com/129970809/234885985-89ec5b63-68c2-47ab-8eac-b3d31e280395.jpg)
 
-```
 
 ## RESULT:
 Thus we have implemented a perceptron for classification using Python.
