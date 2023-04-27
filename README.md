@@ -110,7 +110,8 @@ predict(w1,w2,test)
 ```
  ## OUTPUT:
  ```
- ![3 1](https://user-images.githubusercontent.com/129970809/234884889-2d447c21-393a-4332-af4e-8e218858f037.jpg)
+ ![3 1](https://user-images.githubusercontent.com/129970809/234885309-20ce30b5-a97d-4e90-b189-42ab471dcd24.jpg)
+
 ```
 
 ## RESULT:
