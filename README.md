@@ -41,7 +41,7 @@ Step 4 : Test for the XOR patterns.
 
 ## PROGRAM:
 ```
-NAME :HIBA MARIAM M A
+NAME :HIBA RAJARAJESWARI
 REG NO: 212221040056
 ```
 ```
